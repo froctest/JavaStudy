@@ -1,3 +1,5 @@
+package study.a2;
+
 //学习变量
 public class HelloVar {
     public static void main(String[] args) {

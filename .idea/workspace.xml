@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1b6a194-5aa5-4011-babd-2865206ba33f" name="变更" comment="完成了第一个教程">
-      <change afterPath="$PROJECT_DIR$/src/HelloVar.java" afterDir="false" />
+    <list default="true" id="c1b6a194-5aa5-4011-babd-2865206ba33f" name="变更" comment="完成了第二个教程,学习变量">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="study.a1.HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.a1.HelloWorld" />
       <module name="JavaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,7 +57,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="应用程序.HelloVar" />
-        <item itemvalue="应用程序.HelloWorld" />
+        <item itemvalue="应用程序.study.a1.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670080242869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成了第二个教程,学习变量">
+      <created>1670084133820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670084133820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成了第一个教程" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成了第一个教程" />
+    <MESSAGE value="完成了第二个教程,学习变量" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成了第二个教程,学习变量" />
   </component>
 </project>
